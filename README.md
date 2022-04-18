@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cameron-robbins
 - 👀 I’m interested in researching blockchain technology and building in the DeFi ecosystem
-- 🌱 I’m currently learning Solidity and Linear Algebra
+- 🌱 I’m currently learning Solidity and Real Analysis
 - 📫 How to reach me on twitter @CameronERobbins
 
 <!---
