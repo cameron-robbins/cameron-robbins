@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cameron-robbins
-- 👀 I’m interested in DeFi
-- 📫 How to reach me on twitter @0xCameron_R
+- 👀 I work full-time at a Web3 company 
+- 📫 How to reach me on Twitter: @0xCameron_R
 
 <!---
 cameron-robbins/cameron-robbins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
